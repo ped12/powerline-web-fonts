@@ -19,6 +19,17 @@
     font-style: normal;
 }
 
+
+
+@font-face {
+    font-family: 'DroidSansMono Nerd Font Mono';
+    src: local('Droid Sans Mono Nerd Font Complete Mono'), local('DroidSansMonoNerdFontCM-'),
+        url('DroidSansMonoNerdFontCM-.woff2') format('woff2'),
+        url('DroidSansMonoNerdFontCM-.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
 @font-face {
     font-family: "Hack";
     src: local("Hack"),
