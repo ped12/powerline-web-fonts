@@ -61,6 +61,16 @@
 }
 
 @font-face {
+    font-family: 'MesloLGM Nerd Font';
+    src: local('Meslo LG M Regular Nerd Font Complete'), local('MesloLGMNerdFontC-Regular'),
+        url(fonts/MesloLGMNerdFontC-Regular.woff2) format('woff2'),
+        url(fonts/MesloLGMNerdFontC-Regular.woff) format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
     font-family: "PT Mono";
     src: local("PT Mono for Powerline"),
          url(fonts/PTMono.woff2) format("woff2");
